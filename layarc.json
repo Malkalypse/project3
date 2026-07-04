@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "project2": "https://example.com/project2.git"
+    "project2": "https://github.com/Malkalypse/project2.git"
   },
   "map": {
     "php": "app/php",
