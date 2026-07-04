@@ -1,0 +1,1 @@
+document.body.innerHTML += "<p>Hello from Project 3 (JS)</p>";

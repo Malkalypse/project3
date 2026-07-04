@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "project2": "https://example.com/project2.git"
+  },
+  "map": {
+    "php": "app/php",
+    "js": "app/js",
+    "css": "app/css"
+  }
+}
