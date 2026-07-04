@@ -1,7 +1,10 @@
 {
-  "dependencies": {
-    "project2": "https://github.com/Malkalypse/project2.git"
-  },
+  "dependencies": [
+    {
+      "name": "second_project",
+      "source": "https://github.com/Malkalypse/project2.git"
+    }
+  ],
   "map": {
     "php": "app/php",
     "js": "app/js",
