@@ -1,7 +1,7 @@
 {
   "dependencies": [
     {
-      "name": "second_project",
+      "dir": "second_project",
       "source": "https://github.com/Malkalypse/project2.git"
     }
   ],
