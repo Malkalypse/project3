@@ -1,13 +1,15 @@
 {
-  "dependencies": [
-    {
-      "name": "second_project",
-      "source": "https://github.com/Malkalypse/project2.git"
+    "layarc_version": "0.2.2",
+    "dependencies": [
+        {
+            "name": "second_project",
+            "source": "https://github.com/Malkalypse/project2.git"
+        }
+    ],
+    "map": {
+        "php": "php",
+        "js": "js",
+        "css": "css",
+        "_root": "app"
     }
-  ],
-  "map": {
-    "php": "app/php",
-    "js": "app/js",
-    "css": "app/css"
-  }
 }
